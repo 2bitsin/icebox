@@ -1,0 +1,1 @@
+fasm fat12.asm ../bin/fat12.bin
